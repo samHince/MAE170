@@ -1,7 +1,7 @@
 % MAE 170 Homework 2
 
 % Created by Sam Hince
-% 11/20/2020
+% 11/22/2020
 
 % Problem CP2.6
 
